@@ -4,6 +4,7 @@ This template runs your Python script automatically using GitHub Actions.
 
 **No server needed. No credit card. Completely free.**
 
+
 ---
 
 ## Setup Instructions
